@@ -4,7 +4,8 @@
 - Crypto investor
 - Financial Analyst 
 - Technical Analyst
-- Digital Advertising 
+- Digital Advertising
+- Business Consultation 
 - Entrepreneur 
 - Brand ambassador 
 
