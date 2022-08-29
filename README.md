@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @MagellanJ
 - google analytics 4 
-- jimenezmagellan778@gmail.com
+- WEB3 developer
+- Crypto investor
+- Financial Analyst 
+- Technical Analyst 
+- Entrepreneur 
+- Brand ambassador 
 
 <!---
 MagellanJ/MagellanJ `README.md`
