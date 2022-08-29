@@ -3,7 +3,8 @@
 - WEB3 developer
 - Crypto investor
 - Financial Analyst 
-- Technical Analyst 
+- Technical Analyst
+- Digital Advertising 
 - Entrepreneur 
 - Brand ambassador 
 
