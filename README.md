@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MagellanJ
-- google analytics 4 
+- Blockchain Technology 
 - WEB3 developer
 - Crypto investor
 - Financial Analyst 
