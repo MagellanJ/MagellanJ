@@ -2,7 +2,7 @@
 - Blockchain Technology 
 - WEB3 developer
 - Crypto investor
-- Financial Analyst 
+- Data Analyst 
 - Technical Analyst
 - Digital Advertising
 - Business Consultation 
