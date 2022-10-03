@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MagellanJ
 - Full Stack Developer (Django,SQL)(JS,CSS,HTML)
- Cryptocurrency
+- Cryptocurrency
 - Social Media Marketing 
-- Entrepreneur 
-- Brand ambassador 
 <!---
 MagellanJ/MagellanJ `README.md`
