@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @MagellanJ
-- Blockchain Technology 
-- WEB3 developer
-- Crypto investor
-- Data Analyst 
-- Technical Analyst
-- Digital Advertising
-- Business Consultation 
+- Full Stack Developer (Django,SQL)(JS,CSS,HTML)
+ Cryptocurrency
+- Social Media Marketing 
 - Entrepreneur 
 - Brand ambassador 
-
 <!---
 MagellanJ/MagellanJ `README.md`
